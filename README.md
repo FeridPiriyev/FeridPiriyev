@@ -7,6 +7,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=..I'm+Front-End+Developer..)]()
 </div>
 
+<img width="49%" height = "300px" src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif" alt="cover" align="right" />
 
 
 
