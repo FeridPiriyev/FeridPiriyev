@@ -1,5 +1,5 @@
 
-<h1 align="center" color="red">Hello 👋 Farid Piriyev</h1>
+<h1 align="center" color="red">Hello 👋</h1>
 
 <div align="center">
 
