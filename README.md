@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **at Coding**
 
-- 🌱 I’m currently learning **Front-End**
+- 🌱 I’m currently learning **Front-End, Python**
 
 - 📫 How to reach me **faridpiriyev.developer@gmail.com**
 - ❤️ I love to research, to code, build websites and web applications.
